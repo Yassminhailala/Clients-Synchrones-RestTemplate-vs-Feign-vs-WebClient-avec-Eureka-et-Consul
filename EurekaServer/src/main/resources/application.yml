@@ -1,0 +1,7 @@
+serveur:
+  port: 8761
+
+eureka:
+  client:
+    enregistrer-avec-eureka: false
+    recuperer-registre: false
